@@ -1,110 +1,110 @@
 {
-  "name": "Tahoe Mobile - Neon Bloom",
-  "description": "A Tahoe-inspired dark glass palette with luminous blue accents, vivid green voice states, and warm red call controls.",
+  "name": "Tahoe - Neon Glass",
+  "description": "A darker Tahoe-inspired mobile palette with luminous macOS-style blue accents, cool glassy navy surfaces, and vivid green/red voice states.",
   "authors": [
     {
-      "name": "ChatGPT"
+      "name": "Preskyle21"
     }
   ],
   "semanticColors": {
     "HEADER_PRIMARY": [
-      "#F2F7FF"
+      "#F5F8FF"
     ],
     "HEADER_SECONDARY": [
-      "#A9B9CC"
+      "#AAB9D0"
     ],
     "TEXT_NORMAL": [
-      "#E5EDF7"
+      "#E8EFFB"
     ],
     "TEXT_MUTED": [
-      "#8292A6"
+      "#8797B0"
     ],
     "TEXT_LINK": [
       "#83BDFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#A9CFFF"
+      "#B6D7FF"
     ],
     "INTERACTIVE_HOVER": [
-      "#D1E6FF"
+      "#D9EBFF"
     ],
     "INTERACTIVE_ACTIVE": [
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#56677D"
+      "#5A6C86"
     ],
     "BACKGROUND_PRIMARY": [
-      "#101722"
+      "#0B0C16"
     ],
     "BACKGROUND_SECONDARY": [
-      "#151F2C"
+      "#101522"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#192536"
+      "#151C2C"
     ],
     "BACKGROUND_TERTIARY": [
-      "#0C131D"
+      "#080A12"
     ],
     "BACKGROUND_ACCENT": [
-      "#263B54"
+      "#203B5B"
     ],
     "BACKGROUND_FLOATING": [
-      "#172333"
+      "#121A2A"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#101722"
+      "#0B0C16"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#151F2C"
+      "#101522"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#111B28"
+      "#111827"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#1B2A3C"
+      "#19263A"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1B2A3C"
+      "#19263A"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#263B54"
+      "#203B5B"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#203650"
+      "#1B3553"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#263B54"
+      "#203B5B"
     ],
     "CHAT_BACKGROUND": [
-      "#101722"
+      "#0B0C16"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#172333"
+      "#141D2D"
     ],
     "CARD_PRIMARY_BG": [
-      "#172333"
+      "#141D2D"
     ],
     "CARD_SECONDARY_BG": [
-      "#151F2C"
+      "#101522"
     ],
     "CHANNELS_DEFAULT": [
-      "#A9B9CC"
+      "#AAB9D0"
     ],
     "CHANNEL_ICON": [
-      "#8DA8C5"
+      "#91ACCC"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#344A63"
+      "#344A68"
     ],
     "SCROLLBAR_THIN_TRACK": [
       "transparent"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#344A63"
+      "#344A68"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "#151F2C"
+      "#101522"
     ],
     "BACKGROUND_MENTIONED": [
       "#4DA3FF22"
@@ -125,16 +125,16 @@
       "#287FD1"
     ],
     "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#1B2A3C"
+      "#19263A"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#344A63"
+      "#344A68"
     ],
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#172333"
+      "#141D2D"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#172333"
+      "#141D2D"
     ]
   },
   "rawColors": {
@@ -143,17 +143,17 @@
     "BRAND_360": "#78BAFF",
     "BRAND_500": "#4DA3FF",
     "BRAND_560": "#287FD1",
-    "PRIMARY_100": "#F2F7FF",
-    "PRIMARY_200": "#D1E0F0",
-    "PRIMARY_300": "#A9B9CC",
-    "PRIMARY_360": "#8292A6",
-    "PRIMARY_400": "#56677D",
-    "PRIMARY_500": "#263B54",
-    "PRIMARY_600": "#192536",
-    "PRIMARY_630": "#172333",
-    "PRIMARY_660": "#151F2C",
-    "PRIMARY_700": "#101722",
-    "PRIMARY_800": "#0C131D",
+    "PRIMARY_100": "#F5F8FF",
+    "PRIMARY_200": "#D9E5F5",
+    "PRIMARY_300": "#AAB9D0",
+    "PRIMARY_360": "#8797B0",
+    "PRIMARY_400": "#5A6C86",
+    "PRIMARY_500": "#203B5B",
+    "PRIMARY_600": "#151C2C",
+    "PRIMARY_630": "#141D2D",
+    "PRIMARY_660": "#101522",
+    "PRIMARY_700": "#0B0C16",
+    "PRIMARY_800": "#080A12",
     "GREEN_100": "#D7FFF0",
     "GREEN_130": "#C0FFE5",
     "GREEN_160": "#A8FFDA",
@@ -195,8 +195,8 @@
     "RED_630": "#7B121C",
     "RED_660": "#650E17",
     "RED_700": "#500A12",
-    "WHITE": "#F2F7FF",
-    "WHITE_500": "#F2F7FF"
+    "WHITE": "#F5F8FF",
+    "WHITE_500": "#F5F8FF"
   },
   "spec": 2
 }
