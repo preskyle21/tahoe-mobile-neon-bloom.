@@ -1,0 +1,202 @@
+{
+  "name": "Tahoe Mobile - Neon Bloom",
+  "description": "A Tahoe-inspired dark glass palette with luminous blue accents, vivid green voice states, and warm red call controls.",
+  "authors": [
+    {
+      "name": "ChatGPT"
+    }
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#F2F7FF"
+    ],
+    "HEADER_SECONDARY": [
+      "#A9B9CC"
+    ],
+    "TEXT_NORMAL": [
+      "#E5EDF7"
+    ],
+    "TEXT_MUTED": [
+      "#8292A6"
+    ],
+    "TEXT_LINK": [
+      "#83BDFF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#A9CFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#D1E6FF"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#56677D"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#101722"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#151F2C"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#192536"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#0C131D"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#263B54"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#172333"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#101722"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#151F2C"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#111B28"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#1B2A3C"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1B2A3C"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#263B54"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#203650"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#263B54"
+    ],
+    "CHAT_BACKGROUND": [
+      "#101722"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#172333"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#172333"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#151F2C"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#A9B9CC"
+    ],
+    "CHANNEL_ICON": [
+      "#8DA8C5"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#344A63"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#344A63"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#151F2C"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#4DA3FF22"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#4DA3FF38"
+    ],
+    "TEXT_DANGER": [
+      "#FF777D"
+    ],
+    "BUTTON_OUTLINE_BRAND_BACKGROUND": [
+      "#4DA3FF"
+    ],
+    "BUTTON_OUTLINE_BRAND_BORDER": [
+      "#4DA3FF"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#287FD1"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#1B2A3C"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#344A63"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#172333"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#172333"
+    ]
+  },
+  "rawColors": {
+    "BRAND": "#4DA3FF",
+    "BRAND_260": "#A8D2FF",
+    "BRAND_360": "#78BAFF",
+    "BRAND_500": "#4DA3FF",
+    "BRAND_560": "#287FD1",
+    "PRIMARY_100": "#F2F7FF",
+    "PRIMARY_200": "#D1E0F0",
+    "PRIMARY_300": "#A9B9CC",
+    "PRIMARY_360": "#8292A6",
+    "PRIMARY_400": "#56677D",
+    "PRIMARY_500": "#263B54",
+    "PRIMARY_600": "#192536",
+    "PRIMARY_630": "#172333",
+    "PRIMARY_660": "#151F2C",
+    "PRIMARY_700": "#101722",
+    "PRIMARY_800": "#0C131D",
+    "GREEN_100": "#D7FFF0",
+    "GREEN_130": "#C0FFE5",
+    "GREEN_160": "#A8FFDA",
+    "GREEN_200": "#8AFFCA",
+    "GREEN_230": "#70FFBD",
+    "GREEN_260": "#55FFAE",
+    "GREEN_300": "#3BFFA0",
+    "GREEN_330": "#27F995",
+    "GREEN_345": "#1FF18D",
+    "GREEN_360": "#18E887",
+    "GREEN_400": "#12D77B",
+    "GREEN_430": "#10C875",
+    "GREEN_460": "#0EB86C",
+    "GREEN_500": "#0CA963",
+    "GREEN_530": "#0A995A",
+    "GREEN_560": "#088A51",
+    "GREEN_600": "#087A49",
+    "GREEN_630": "#076A41",
+    "GREEN_660": "#065A38",
+    "GREEN_700": "#054B30",
+    "GREEN_730": "#043D28",
+    "GREEN_760": "#032F20",
+    "GREEN_800": "#022318",
+    "GREEN_830": "#011910",
+    "GREEN_860": "#01120B",
+    "GREEN_900": "#000B06",
+    "RED_260": "#FFB2B5",
+    "RED_300": "#FF969B",
+    "RED_330": "#FF858B",
+    "RED_345": "#FF777D",
+    "RED_360": "#FF686F",
+    "RED_400": "#F4515B",
+    "RED_430": "#E7434E",
+    "RED_460": "#D93642",
+    "RED_500": "#C92D39",
+    "RED_530": "#B82430",
+    "RED_560": "#A51D29",
+    "RED_600": "#901722",
+    "RED_630": "#7B121C",
+    "RED_660": "#650E17",
+    "RED_700": "#500A12",
+    "WHITE": "#F2F7FF",
+    "WHITE_500": "#F2F7FF"
+  },
+  "spec": 2
+}
